@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.about{
+    background-image: url("https://images.unsplash.com/photo-1601231522153-4910f56cb71e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80");
+
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.division{
+    text-align: center;
+    /* justify-content: center;
+    display: flex; */
+    
+    font-size: xx-large;
+    /* background-color: rgb(222, 244, 200); */
+
+    background: rgb(34,193,195);
+background: linear-gradient(11deg, rgba(34,193,195,1) 2%, rgba(102,183,96,0.7429096638655462) 59%, rgba(253,187,45,1) 100%);
+    border-radius: 14px;
+    padding: 25px;
+
+}
+
+.paragraph{
+    color: black;
+}
+
+footer {
+    background-color: #bac4f5;
+    padding: 40px 0;
+  }
+  
+  footer h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  footer button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  footer button:hover {
+    background-color: #0069d9;
+  }
+  .copyright{
+    text-align: center;
+    padding-top: 30px;
+    font-size: larger;
+  }
+
+  
+  
